@@ -63,4 +63,3 @@ web.dnsbl.sorbs.net
 xbl.spamhaus.org
 zen.spamhaus.org
 zombie.dnsbl.sorbs.net
-bl.mailspike.net
